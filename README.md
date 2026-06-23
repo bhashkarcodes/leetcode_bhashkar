@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
