@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/bhashkarcodes/leetcode_bhashkar/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
